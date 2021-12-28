@@ -1,0 +1,15 @@
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\bin\Debug\Amoryzation.exe.config
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\bin\Debug\Amoryzation.exe
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\bin\Debug\Amoryzation.pdb
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation.csproj.AssemblyReference.cache
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\MainWindow.g.cs
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\App.g.cs
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation_MarkupCompile.cache
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation_MarkupCompile.lref
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\MainWindow.baml
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation.g.resources
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation.Properties.Resources.resources
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation.csproj.GenerateResource.cache
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation.csproj.CoreCompileInputs.cache
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation.exe
+D:\File\GitHub\Amortyzation\Amoryzation\Amoryzation\obj\Debug\Amoryzation.pdb
